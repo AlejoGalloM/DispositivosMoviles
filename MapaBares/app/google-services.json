@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476898585660",
+    "firebase_url": "https://dispotivosmoviles---mapas.firebaseio.com",
+    "project_id": "dispotivosmoviles---mapas",
+    "storage_bucket": "dispotivosmoviles---mapas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476898585660:android:95a9b58a58714041516739",
+        "android_client_info": {
+          "package_name": "com.example.mapabares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476898585660-uh150up6mppl4854766gaagm988c0ehb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYe_ZgWBPMMQpfozWyvIOSsuXcGrjyJgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476898585660-uh150up6mppl4854766gaagm988c0ehb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
